@@ -17,10 +17,3 @@ Hi there 👋
 🥅 2024 Goal: Learn Low Level System Design (LLD)
 
 🥅 2026 Goal: Get a decent placement in a decent software developement company.
-
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name}
-
-
-
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={username}&theme={theme_name}&exclude={exclude}
-
