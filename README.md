@@ -16,4 +16,4 @@ Hi there 👋
 
 🥅 2024 Goal: Learn Low Level System Design (LLD)
 
-🥅 2025 Goal: Get a decent placement in a decent software developement company.
+🥅 2025 Goal: Get a decent placement in a decent product based company.
